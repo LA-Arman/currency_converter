@@ -1,1 +1,2 @@
 # currency_converter
+using the project i have learn and understand the structure of the code.learned a lot of html, css, javaScript code when and where how to use it make a lot of mistake and earned a lot from them and i have use Api I have taken help of internet for using Api from my project. if some of you have seen my project tell me my mistake where i have made. how can improve it and update it. i know its basic but for me learned a lot.
